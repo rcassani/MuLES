@@ -1,6 +1,7 @@
 # MuLES (MuSAE Lab EEG Server)
 ## Windows and OS X development
 
+Modification from Mac
 <p align="center">
 <img src="https://github.com/MuSAELab/MuLES/blob/master/images/MuLES_logo.png" width="400" align="middle">
 </p>
